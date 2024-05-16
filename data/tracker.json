@@ -2,7 +2,7 @@
 	"debug": false,
 	"beacons": [
 		{
-			"callsign": "NOCALL-7",
+			"callsign": "PA0ESH-11",
 			"path": "WIDE1-1",
 			"message": "LoRa Tracker",
 			"timeout": 1,
